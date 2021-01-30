@@ -1,0 +1,10 @@
+
+
+Cái db tui mới tạo là dùng cho mọi người viết các lệnh tạo bảng trong đó 
+mọi người tự tạo bảng của mình 
+. 
+Luu ý ttruoc khi git add . thì hãy git pull về để đồng bộ dữ liệu 
+
+tạo xong , làm xong phần nào đó thì cứ git add . git commit -m ' ' git push 
+lên 
+
