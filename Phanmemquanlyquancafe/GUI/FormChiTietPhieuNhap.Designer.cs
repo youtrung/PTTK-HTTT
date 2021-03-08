@@ -1,7 +1,7 @@
 ﻿
-namespace Phanmemquanlyquancafe
+namespace Phanmemquanlyquancafe.GUI
 {
-    partial class Form1
+    partial class FormChiTietPhieuNhap
     {
         /// <summary>
         /// Required designer variable.
@@ -32,10 +32,9 @@ namespace Phanmemquanlyquancafe
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Text = "FormChiTietPhieuNhap";
         }
 
         #endregion
     }
 }
-

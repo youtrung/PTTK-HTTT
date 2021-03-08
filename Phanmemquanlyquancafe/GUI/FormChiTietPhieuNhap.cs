@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Phanmemquanlyquancafe
+namespace Phanmemquanlyquancafe.GUI
 {
-    public partial class Form1 : Form
+    public partial class FormChiTietPhieuNhap : Form
     {
-        public Form1()
+        public FormChiTietPhieuNhap()
         {
             InitializeComponent();
         }
